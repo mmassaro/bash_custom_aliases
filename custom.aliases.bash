@@ -60,9 +60,11 @@ alias colorLine="echo -e \"${rougefonce}
 *******************************************************************************
 ${neutre}\""
 
+# Change keybord configuration
 alias fr="setxkbmap fr"
 alias us="setxkbmap us"
 
+# generate de nomenclature for the thesis
 alias nomencl="makeindex these_michel.nlo -s nomencl.ist -o these_michel.nls"
 
 
