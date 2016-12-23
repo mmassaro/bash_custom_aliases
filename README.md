@@ -1,8 +1,8 @@
-                                          _
-                          _o)   __ _  ___/ /__  __ _  (o_
-    ###################   /\\  /  ' \/ _  / _ `/  ' \ //\   #####################
-                          \_v /_/_/_/\_,_/\_, /_/_/_/ v_/
-                                         /___/
+                                        _      _
+                       _o)   __ _  ___/ /__ _/ /_  __ _  (o_
+    ################   /\\  /  ' \/ _  / _ `/ _  \/  ' \ //\   ##################
+                       \_v /_/_/_/\_,_/\_, /_/ /_/_/_/_/ v_/
+                                      /___/
 
 The file *custom.aliases.bash* is a collection of useful aliases that I use.
 The function can be use directly in your *.bashrc* but in my case I use it as 
