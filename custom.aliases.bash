@@ -189,7 +189,7 @@ cdb(){
 
 # Premiere lettre du commit en majuscule
 function commit {
-    git commit -m "`echo "$*" | sed -e 's/^./\U&\E/g'`"
+    git commit -am "`echo "$*" | sed -e 's/^./\U&\E/g'`"
 }
 
 extract () {
